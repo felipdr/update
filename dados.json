@@ -1,0 +1,30 @@
+{
+    "equipes": [
+        {
+            "nome": "BloodReds",
+            "jogadores": [
+                "Aresff",
+                "Hades",
+                "Zeus",
+                "Apollo"
+            ],
+            "vitorias": 16,
+            "kills": 18,
+            "partidas_jogadas": 5,
+            "pontos_somados": 1
+        },
+        {
+            "nome": "Stormbringers",
+            "jogadores": [
+                "Thor",
+                "Odin",
+                "Loki",
+                "Freya"
+            ],
+            "vitorias": 13,
+            "kills": 15,
+            "partidas_jogadas": 5,
+            "pontos_somados": 0
+        }
+    ]
+}
