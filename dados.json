@@ -3,37 +3,37 @@
         {
             "nome": "ShadowSnipers",
             "jogadores": ["GhostNinja", "NightFalcon", "StealthViper"],
-            "vitorias": 2,
-            "kills": 15,
-            "partidas_jogadas": 8
+            "vitorias": 3,
+            "kills": 30,
+            "partidas_jogadas": 15
         },
         {
             "nome": "StormBringers",
             "jogadores": ["ThunderStrike", "LightningBolt", "StormChaser"],
-            "vitorias": 1,
-            "kills": 10,
-            "partidas_jogadas": 8
+            "vitorias": 2,
+            "kills": 20,
+            "partidas_jogadas": 15
         },
         {
             "nome": "SteelFalcons",
             "jogadores": ["IronClad", "SteelFist", "FalconEye"],
-            "vitorias": 1,
-            "kills": 20,
-            "partidas_jogadas": 8
+            "vitorias": 4,
+            "kills": 25,
+            "partidas_jogadas": 15
         },
         {
             "nome": "NightRiders",
             "jogadores": ["DarkShade", "MoonKnight", "ShadowLurker"],
-            "vitorias": 2,
-            "kills": 13,
-            "partidas_jogadas": 8
+            "vitorias": 1,
+            "kills": 15,
+            "partidas_jogadas": 15
         },
         {
             "nome": "RogueWarlocks",
             "jogadores": ["MysticMage", "ArcaneWarrior", "SpellCaster"],
-            "vitorias": 2,
-            "kills": 8,
-            "partidas_jogadas": 8
+            "vitorias": 0,
+            "kills": 10,
+            "partidas_jogadas": 15
         }
     ]
 }
