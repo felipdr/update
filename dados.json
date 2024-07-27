@@ -34,6 +34,41 @@
             "vitorias": 0,
             "kills": 10,
             "partidas_jogadas": 15
+        },
+        {
+            "nome": "PhoenixSquad",
+            "jogadores": ["FireBlade", "InfernoKnight", "BlazeMaster"],
+            "vitorias": 5,
+            "kills": 35,
+            "partidas_jogadas": 20
+        },
+        {
+            "nome": "ViperAssassins",
+            "jogadores": ["VenomStrike", "SilentViper", "CobraFang"],
+            "vitorias": 2,
+            "kills": 22,
+            "partidas_jogadas": 18
+        },
+        {
+            "nome": "ThunderClaw",
+            "jogadores": ["LightningFury", "StormBreaker", "Thunderbolt"],
+            "vitorias": 3,
+            "kills": 28,
+            "partidas_jogadas": 16
+        },
+        {
+            "nome": "IronWolves",
+            "jogadores": ["SteelPaw", "IronFang", "WolfHowl"],
+            "vitorias": 1,
+            "kills": 18,
+            "partidas_jogadas": 14
+        },
+        {
+            "nome": "DragonLegion",
+            "jogadores": ["DragonHeart", "FireDragon", "StormDragon"],
+            "vitorias": 4,
+            "kills": 30,
+            "partidas_jogadas": 17
         }
     ]
 }
