@@ -38,7 +38,7 @@
         {
             "nome": "PhoenixSquad",
             "jogadores": ["FireBlade", "InfernoKnight", "BlazeMaster"],
-            "vitorias": 5,
+            "vitorias": 3,
             "kills": 34,
             "partidas_jogadas": 20
         },
